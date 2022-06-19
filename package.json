@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-fan",
+  "version": "1.0.1",
+  "description": "Dynamic classes plugin for tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliRazaShaheb/tailwind-fan.git"
+  },
+  "keywords": [
+    "tailwind-plugin",
+    "dynamic-text-size",
+    "fluid-text",
+    "dynamic-margin-padding",
+    "modular-scale",
+    "fluid-type",
+    "tailwindcss"
+  ],
+  "author": "Ali Raza Shaheb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliRazaShaheb/tailwind-fan/issues"
+  },
+  "homepage": "https://github.com/AliRazaShaheb/tailwind-fan#readme"
+}
