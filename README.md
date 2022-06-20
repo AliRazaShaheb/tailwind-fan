@@ -64,7 +64,7 @@ module.exports = {
     <h3 class="Dtext-[3rem]">Tailwind-fan Dynamic Text Auto Scaling</h3>
     <!-- 
       the above example work like 
-      [maximum 3rem, minimum (2rem/1.5)]
+      [maximum 3rem, minimum (3rem/1.5)]
       minimum automaticaly set 66% smaller
     -->
 
@@ -72,7 +72,7 @@ module.exports = {
       
       - same rules for dynamic margin & padding
       - margin & padding all classes with additon of 'D' which stands for Dynamic
-      - instead of 'm-[1rem] or p-[1rem]'
+      - instead of 'm-[1rem] or p-[1rem]' use below :
         Dm-[1rem] or Dp-[1rem]
 
       - some Dynamic 'D' classes examples - 
