@@ -1,6 +1,6 @@
 {
   "name": "tailwind-fan",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dynamic classes plugin for tailwind css",
   "main": "index.js",
   "scripts": {
