@@ -91,3 +91,4 @@ module.exports = {
 
 </section>
 ```
+![example](https://github.com/AliRazaShaheb/tailwind-fan/blob/main/tailwind_fan_example.gif)
