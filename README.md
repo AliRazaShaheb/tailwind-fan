@@ -1,6 +1,6 @@
 # 👉🏻 tailwind-fan
 ### tailwind css plugin for dynamic font-size, margin, padding & more
-![logo_img](https://github.com/AliRazaShaheb/tailwind-fan/blob/main/tailwind-fan.jpg)
+![logo_img](https://github.com/AliRazaShaheb/tailwind-fan/blob/main/tailwind-fan.png)
 
 A plugin for the use of text, margin & padding dynamically according to the screen viewport width
 
